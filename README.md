@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@esm/index.mjs';
+import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@v0.0.1-esm/index.mjs';
 ```
 
 #### isPascalcase( value )
@@ -72,7 +72,7 @@ bool = isPascalcase( 'Hello World' );
 <body>
 <script type="module">
 
-import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@esm/index.mjs';
+import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@v0.0.1-esm/index.mjs';
 
 var bool = isPascalcase( 'FooBarBaz' );
 // returns true
