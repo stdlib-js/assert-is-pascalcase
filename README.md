@@ -31,6 +31,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-pascalcase/tags). For example,
+
+```javascript
 import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@v0.0.1-esm/index.mjs';
 ```
 
@@ -72,7 +77,7 @@ bool = isPascalcase( 'Hello World' );
 <body>
 <script type="module">
 
-import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@v0.0.1-esm/index.mjs';
+import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@esm/index.mjs';
 
 var bool = isPascalcase( 'FooBarBaz' );
 // returns true
