@@ -175,16 +175,16 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/assert-is-pascalcase-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/assert-is-pascalcase-cli
 
-[test-image]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2/actions/workflows/test.yml/badge.svg?branch=v0.0.2
-[test-url]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2/actions/workflows/test.yml?query=branch:v0.0.2
+[test-image]: https://github.com/stdlib-js/assert-is-pascalcase/actions/workflows/test.yml/badge.svg?branch=v0.0.2
+[test-url]: https://github.com/stdlib-js/assert-is-pascalcase/actions/workflows/test.yml?query=branch:v0.0.2
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/assert-is-pascalcase@v0.0.2/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/assert-is-pascalcase@v0.0.2?branch=v0.0.2
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/assert-is-pascalcase/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/assert-is-pascalcase?branch=v0.0.2
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/assert-is-pascalcase@v0.0.2.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/assert-is-pascalcase@v0.0.2/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/assert-is-pascalcase.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/assert-is-pascalcase/main
 
 -->
 
@@ -195,19 +195,19 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2#cli
-[cli-url]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2/tree/cli
-[main-url]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2
+[cli-section]: https://github.com/stdlib-js/assert-is-pascalcase#cli
+[cli-url]: https://github.com/stdlib-js/assert-is-pascalcase/tree/cli
+[main-url]: https://github.com/stdlib-js/assert-is-pascalcase
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2/tree/deno
-[umd-url]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2/tree/umd
-[esm-url]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2/tree/esm
-[branches-url]: https://github.com/stdlib-js/assert-is-pascalcase@v0.0.2/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/assert-is-pascalcase/tree/deno
+[umd-url]: https://github.com/stdlib-js/assert-is-pascalcase/tree/umd
+[esm-url]: https://github.com/stdlib-js/assert-is-pascalcase/tree/esm
+[branches-url]: https://github.com/stdlib-js/assert-is-pascalcase/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-pascalcase@v0.0.2/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-pascalcase/main/LICENSE
 
 [standard-streams]: https://en.wikipedia.org/wiki/Standard_streams
 
