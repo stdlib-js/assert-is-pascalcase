@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-pascalcase/tags). For example,
+
+```javascript
 import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@v0.1.1-deno/mod.js';
 ```
 
@@ -78,7 +83,7 @@ bool = isPascalcase( 'Hello World' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@v0.1.1-deno/mod.js';
+import isPascalcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-pascalcase@deno/mod.js';
 
 var bool = isPascalcase( 'FooBarBaz' );
 // returns true
