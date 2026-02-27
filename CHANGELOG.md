@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-27)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`078b193`](https://github.com/stdlib-js/stdlib/commit/078b19390e586d8fd746133f6f51f65a513da49b) - **docs:** fix orphaned section comments in `assert/is-*` READMEs _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
